@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cafein</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Cafe or Drink</string>
+    <string name="search">search</string>
+</resources>
